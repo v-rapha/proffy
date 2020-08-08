@@ -81,4 +81,6 @@ As aulas foram ministradas pelo mestre [Diego Fernandes](https://github.com/dieg
 ## :page_facing_up: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/v-rapha/proffy/blob/master/LICENCE) para mais detalhes.
 
+***
+
 #### Feito com :heart: by [Vinicius Raphael](https://www.linkedin.com/in/vinicius-raphael/)
