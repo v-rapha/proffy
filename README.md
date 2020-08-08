@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## Sobre
+## :book: Sobre
 O <strong>Proffy</strong> é uma aplicação que tem como objetivo ser uma plataforma de estudos conectando professores e alunos.
 
 ## :computer: Tecnologias utilizadas
@@ -74,14 +74,11 @@ $ npm start
 # Você precisa apenas escanear o QRcode com seu dispositivo fisico ou rodar a aplicação no seu emulador
 
 # No arquivo api.ts, troque a baseURL pelo seu endereço IP
-
-# Se ocorrer algum problema com as fontes, execute
-$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 ```
 ## :mortar_board: Quem ministrou
 As aulas foram ministradas pelo mestre [Diego Fernandes](https://github.com/diego3g) nas aulas da <strong>Next Level Week 2ª edição</strong>.
 
-## :book: Licença
+## :page_facing_up: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/v-rapha/proffy/blob/master/LICENCE) para mais detalhes.
 
 #### Feito com :heart: by [Vinicius Raphael](https://www.linkedin.com/in/vinicius-raphael/)
